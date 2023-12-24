@@ -25,6 +25,8 @@ The findings will be presented through a detailed report and visualizations for 
 Future iterations may involve incorporating: 
 Real-time data feeds, refining predictive models, interactive dashboards, or expanding the scope of analysis to include external factors impacting sales.
 
+Project Link: http://localhost:8888/nbconvert/html/Sales%20Data%20Analysis.ipynb?download=true
+
 # Contributor:
 This project was given as Internship Certification Program by MeriSKILL.
 Linkedin- ( https://www.linkedin.com/company/meriskill )
